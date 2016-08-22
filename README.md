@@ -1,4 +1,5 @@
 #Scientific Calculotor
+#Android App
 Scientific Calculator is a android app used for Calculation of all Scientific aspects along with basic mathematical functions.
 #Contributors
 Mohd Sohail Khan
