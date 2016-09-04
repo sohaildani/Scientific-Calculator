@@ -7,7 +7,8 @@
 * JDK 7+
 
 ##Contibute
-'''
+```
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
-'''
+```
+
