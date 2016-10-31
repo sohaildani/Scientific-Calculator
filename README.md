@@ -4,7 +4,7 @@
 ***
 
 ## Example 
-- Complex calculation used in physics and Mathematics
+- Complex and simple calculation used in physics and Mathematics
 - Complex calculation
 - Trignometric calculation
 - Different mathematical functions
