@@ -3,7 +3,7 @@
 >Scientific Calculator is a android app used for Calculation of all Scientific aspects along with basic mathematical functions.
 ***
 
-## Example 
+## Example ###
 - Complex calculation used in physics and Mathematics
 - Complex calculation
 - Trignometric calculation
