@@ -5,9 +5,9 @@
 
 ##Example 
 - Complex calculation used in physics and Mathematics
-- Simple calculation
+- Complex calculation
 - Trignometric calculation
-
+- Different mathematical functions
 <img src="as.png" align="right" />
 ##Requirement for using it on your device
 * Android SDK 2.1+
