@@ -10,7 +10,7 @@
 - Different mathematical functions
 <img src="as.png" align="right" />
 
-## Requirement for using it on your device
+## Requirement for using it on your device ###
 * Android SDK 2.1+
 * JDK 7+
 
