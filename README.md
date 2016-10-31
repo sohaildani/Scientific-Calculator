@@ -6,6 +6,7 @@
 ##Example 
 - Complex calculation used in physics and Mathematics
 - Simple calculation
+- Trignometric calculation
 
 <img src="as.png" align="right" />
 ##Requirement for using it on your device
