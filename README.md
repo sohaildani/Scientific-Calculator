@@ -14,7 +14,7 @@
 * Android SDK 2.1+
 * JDK 7+
 
-## Contibute
+## Contibute ###
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
 
